@@ -8,8 +8,7 @@ On your terminal, run the following commands:
 1. ``git clone https://github.com/GermainPereira/myBlog.git`` - copies the directory
 2. ``python manage.py migrate`` - creates and configures a database and other imports
 3.  ``python manage.py createsuperuser`` - creates your own admin account
-4. ``python manage.py runserver`` - runs the django server
-Ready!
+4. ``python manage.py runserver`` - runs the django server  
 
 ## Blog Access
 
