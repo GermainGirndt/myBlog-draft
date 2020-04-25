@@ -15,6 +15,6 @@ Ready!
 
 You can access your the blog's main page at http://127.0.0.1:8000/.
 
-Use the created account at step 3. to access the admin's page at http://127.0.0.1:8000/admin
+Use the created account (step 3) to access the admin's page at http://127.0.0.1:8000/admin
 
 Your now ready to have fun writting your own posts! ;)
